@@ -7,3 +7,13 @@ Go to run >> run configuration >> select the project in 'Base Directory'  >> Goa
 
 
 Report Location: Adidas-QA-Task1\Adidas-QA-Task1\target\site\serenity\index.html
+
+
+<Strong>About Task</Strong>:
+
+1. Response Ame should be bellow 1s<br>
+Test Case Status: Pass
+2. Images should be accessible (no 404/401s)<br>
+Test Case Status: Pass
+3. Every component has at least analyAcs data “analytics_name” in it<br>
+Test Case status: Fail : analytics_name is not present in all of the Componenets
